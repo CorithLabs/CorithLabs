@@ -15,7 +15,7 @@ Product manager by day, developer by night. QA and DevOps in a past life.
 Spec governance for teams shipping with AI. Security review of the Spec. Cost Estimator and Visualization, Generate Code and detect drift. 
 
 <a href="https://sutrasdd.app">
-  <img src="assets/Sutra.gif" alt="Sutra: planning a feature and detecting drift against generated code" width="100%">
+  <img src="Sutra.gif" alt="Sutra: planning a feature and detecting drift against generated code" width="100%">
 </a>
 
 <a href="https://github.com/CorithLabs/LTCM">
