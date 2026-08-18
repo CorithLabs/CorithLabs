@@ -4,7 +4,7 @@ Product manager by day, developer by night. QA and DevOps in a past life.
 
 <p>
   <a href="https://sutrasdd.app"><img src="https://img.shields.io/badge/sutrasdd.app-C98A3E?style=flat-square&logoColor=white" alt="sutrasdd.app"></a>
-  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/ashesh11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Ottawa,%20Canada-1A1816?style=flat-square" alt="Ottawa, Canada">
 </p>
 
