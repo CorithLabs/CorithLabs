@@ -64,9 +64,11 @@ Self-hosted test case management for small QA teams. Run sessions with history a
 
 <br>
 
-**[journ.ai](https://github.com/CorithLabs/journ.ai)** — AI powered travel planner and journal. Scratching my own itch.
+**Deja Loop** — An arcade game that makes you fight yourself. Coming soon on Android and iOS. 
 
-**[cent-cent-go](https://github.com/CorithLabs/cent-cent-go)** — Byte-byte-go, but for stocks. A learning tool I'm building for myself.
+**Travel Planner** — A privacy first Progressive Web app that helps you build your travel itinerary using AI and allows for optimizing your plan based on various factors. 
+
+** ProductOS ** - Inspired from Great CTO, a Product Manager OS based on Agentic loops. 
 
 </details>
 
