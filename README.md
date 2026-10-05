@@ -68,7 +68,7 @@ Self-hosted test case management for small QA teams. Run sessions with history a
 
 **Travel Planner** — A privacy first Progressive Web app that helps you build your travel itinerary using AI and allows for optimizing your plan based on various factors. 
 
-** ProductOS ** - Inspired from Great CTO, a Product Manager OS based on Agentic loops. 
+**ProductOS** - Inspired from Great CTO, a Product Manager OS based on Agentic loops. 
 
 </details>
 
