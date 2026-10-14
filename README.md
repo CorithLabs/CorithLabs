@@ -64,9 +64,11 @@ Self-hosted test case management for small QA teams. Run sessions with history a
 
 <br>
 
-**Deja Loop** — An arcade game that makes you fight yourself. Coming soon on Android and iOS. 
-
 **Travel Planner** — A privacy first Progressive Web app that helps you build your travel itinerary using AI and allows for optimizing your plan based on various factors. 
+
+**<a href="https://pm-simulator-game.vercel.app/">Zero Authority</a>** - A fun RPG Product Manager simulator. 
+
+**Deja Loop** — An arcade game that makes you fight yourself. Coming soon on Android and iOS. 
 
 **ProductOS** - Inspired from Great CTO, a Product Manager OS based on Agentic loops. 
 
