@@ -64,7 +64,7 @@ Self-hosted test case management for small QA teams. Run sessions with history a
 
 <br>
 
-**Travel Planner** — A privacy first Progressive Web app that helps you build your travel itinerary using AI and allows for optimizing your plan based on various factors. 
+**<a href="https://journ-ai-three.vercel.app/">Travel Planner</a>** — A privacy and security first Progressive Web app that helps build your travel itinerary using AI and keep everything in one place. 
 
 **<a href="https://pm-simulator-game.vercel.app/">Zero Authority</a>** - A fun RPG Product Manager simulator. 
 
