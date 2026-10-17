@@ -51,6 +51,12 @@ Spec governance for teams shipping with AI. Security review of the spec, cost es
 
 --- 
 
+---
+## **<a href="https://journ-ai-three.vercel.app/">Journ.Ai</a>**
+<p>A privacy and security first Progressive Web app that helps build your travel itinerary using AI and keep everything in one place. </p>
+
+---
+
 ## LTCM
 
 Self-hosted test case management for small QA teams. Run sessions with history and diffs, Jira integration, CSV and PDF export.
@@ -70,10 +76,6 @@ Self-hosted test case management for small QA teams. Run sessions with history a
 <summary><b>Also building</b></summary>
 
 <br>
-
-**<a href="https://journ-ai-three.vercel.app/">Travel Planner</a>** — A privacy and security first Progressive Web app that helps build your travel itinerary using AI and keep everything in one place. 
-
-**<a href="https://pm-simulator-game.vercel.app/">Zero Authority</a>** - A fun RPG Product Manager simulator. 
 
 **Deja Loop** — An arcade game that makes you fight yourself. Coming soon on Android and iOS. 
 
