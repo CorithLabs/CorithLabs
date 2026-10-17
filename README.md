@@ -47,7 +47,7 @@ Spec governance for teams shipping with AI. Security review of the spec, cost es
 
 ##<a href="https://pm-simulator-game.vercel.app/">Zero Authority</a>
 A fun RPG Product Manager simulator. 
-
+--- 
 ## LTCM
 
 Self-hosted test case management for small QA teams. Run sessions with history and diffs, Jira integration, CSV and PDF export.
