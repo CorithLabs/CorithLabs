@@ -45,7 +45,7 @@ Spec governance for teams shipping with AI. Security review of the spec, cost es
 
 ---
 
-##<a href="https://pm-simulator-game.vercel.app/">Zero Authority</a>
+## <a href="https://pm-simulator-game.vercel.app/">Zero Authority</a>
 <p> A fun RPG Product Manager simulator. </p>
 
 --- 
