@@ -52,7 +52,7 @@ Spec governance for teams shipping with AI. Security review of the spec, cost es
 --- 
 
 ---
-## ✈️**<a href="https://journ-ai-three.vercel.app/">Journ.Ai</a>**
+## ✈️<a href="https://journ-ai-three.vercel.app/">Journ.Ai</a>
 <p>A privacy and security first Progressive Web app that helps build your travel itinerary using AI and keep everything in one place. </p>
 
 ---
